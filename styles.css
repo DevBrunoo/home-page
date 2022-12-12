@@ -1,0 +1,38 @@
+.p_home, .p_academic{
+    text-align: center;
+    margin-right: 5%;
+    margin-left: 5%;
+    font-size: 22px;
+}
+p{
+    margin-right: 5%;
+    margin-left: 5%;
+}
+.img_history{
+    text-align: center;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+#h2_history{
+    font-size: 32;
+    color-adjust: black;
+    text-align: center;
+}
+.d-block{
+    width: 700px;
+    height: 500px;
+}
+.h1_academic{
+    font-size: 80px;
+    color: black;
+}
+.h1_academic:hover{
+    color:red;
+}
+@media screen {
+    .h1_academic{
+        font-size: 36px;
+    }
+    
+}
